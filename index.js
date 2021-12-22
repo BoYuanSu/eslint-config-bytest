@@ -1,6 +1,4 @@
-// const base = require('./base.eslint.config.js')
-// const vue2 = require('./vue2.eslint.config')
-
+// console.log('🚀 ~ require(./lib/vue2),', require('./lib/base'),)
 module.exports = {
     configs: {
         base: require('./lib/base'),
