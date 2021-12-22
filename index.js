@@ -3,6 +3,7 @@ const vue2 = require('./vue2.eslint.config')
 
 module.exports = {
     configs: {
-        vue2: require('./vue2.eslint.config'),
+        base: require('./lib/base'),
+        vue2: require('./lib/vue2'),
     },
 }
