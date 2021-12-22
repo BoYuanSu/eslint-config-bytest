@@ -1,6 +1,6 @@
 {
-  "name": "eslint-plugin-bytest",
-  "version": "1.0.8",
+  "name": "eslint-config-bytest",
+  "version": "1.0.9",
   "description": "test custom eslint config",
   "author": "paulsu <mayday15221@gmail.com>",
   "scripts": {
@@ -8,6 +8,20 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "main": "index.js",
+  "repository": {
+		"type": "git",
+		"url": "git+https://github.com/BoYuanSu/eslint-config-bytest.git"
+	},
+  "dependencies": {
+    "@vue/cli-plugin-eslint": "~4.5.0",
+    "@vue/eslint-config-standard": "^5.1.2",
+    "eslint": "^6.7.2",
+    "eslint-plugin-import": "^2.20.2",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.0",
+    "eslint-plugin-vue": "^6.2.2"
+  },
   "devDependencies": {
     "@vue/cli-plugin-eslint": "~4.5.0",
     "@vue/eslint-config-standard": "^5.1.2",
