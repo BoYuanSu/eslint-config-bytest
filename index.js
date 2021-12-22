@@ -1,8 +1,8 @@
 // console.log('🚀 ~ require(./lib/vue2),', require('./lib/base'),)
 module.exports = {
-    configs: {
-        base: require('./lib/base'),
-        vue2: require('./lib/vue2'),
-        vue3: require('./lib/vue3'),
-    },
+  configs: {
+    base: require('./lib/base'),
+    vue2: require('./lib/vue2'),
+    vue3: require('./lib/vue3'),
+  }
 }
