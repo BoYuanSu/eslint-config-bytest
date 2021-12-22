@@ -3,5 +3,6 @@ module.exports = {
     configs: {
         base: require('./lib/base'),
         vue2: require('./lib/vue2'),
+        vue3: require('./lib/vue3'),
     },
 }
