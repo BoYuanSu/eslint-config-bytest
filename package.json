@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "main": "index.js",
-  "dependencies": {
+  "devDependencies": {
     "@vue/cli-plugin-eslint": "~4.5.0",
     "@vue/eslint-config-standard": "^5.1.2",
     "eslint": "^6.7.2",
