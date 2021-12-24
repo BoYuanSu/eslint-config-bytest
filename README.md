@@ -5,7 +5,7 @@
 
 ### Installation
 ```sh
-yarn add -D eslint eslint-plugin-standard eslint-plugin-vue eslint-plugin-node eslint-plugin-import eslint-config-bytest
+yarn add -D eslint eslint-plugin-standard eslint-plugin-vue eslint-plugin-node eslint-plugin-import eslint-config-bytest eslint-plugin-promise @vue/eslint-config-standard
 ```
 
 ### Configuration
