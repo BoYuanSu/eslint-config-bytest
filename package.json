@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-bytest",
-  "version": "1.0.32",
+  "version": "1.0.33",
   "description": "test custom eslint config",
   "author": "paulsu <mayday15221@gmail.com>",
   "scripts": {
