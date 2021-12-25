@@ -9,16 +9,16 @@
   },
   "main": "index.js",
   "dependencies": {
-    "@vue/cli-plugin-eslint": "~4.5.0",
-    "eslint-plugin-import": "^2.20.2",
+    "@vue/cli-plugin-eslint": "^4.5.15",
+    "eslint-plugin-import": "^2.25.3",
     "eslint-plugin-node": "^11.1.0",
-    "eslint-plugin-promise": "^4.2.1",
-    "eslint-plugin-standard": "^4.0.0"
+    "eslint-plugin-promise": "^6.0.0",
+    "eslint-plugin-standard": "^5.0.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-eslint": "~4.5.0",
-    "@vue/eslint-config-standard": "^5.1.2",
-    "eslint": "^6.7.2",
+    "@vue/eslint-config-standard": "^6.1.0",
+    "eslint": "^8.5.0",
     "eslint-plugin-import": "^2.20.2",
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "^4.2.1",
@@ -27,8 +27,8 @@
   },
   "peerDependencies": {
     "@vue/cli-plugin-eslint": "~4.5.0",
-    "@vue/eslint-config-standard": "^5.1.2",
-    "eslint": "^6.7.2",
+    "@vue/eslint-config-standard": "^6.1.0",
+    "eslint": "^8.5.0",
     "eslint-plugin-import": "^2.20.2",
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "^4.2.1",
