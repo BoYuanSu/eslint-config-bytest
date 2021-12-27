@@ -5,7 +5,7 @@
   "author": "paulsu <mayday15221@gmail.com>",
   "scripts": {
     "lint": "eslint --print-config path::String",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "main": "index.js",
   "dependencies": {
@@ -30,5 +30,8 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/BoYuanSu/eslint-config-bytest.git"
+  },
+  "devDependencies": {
+    "jest": "^27.4.5"
   }
 }

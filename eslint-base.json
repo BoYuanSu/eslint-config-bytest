@@ -1,0 +1,85 @@
+{
+  "env": {
+    "node": true
+  },
+  "globals": {},
+  "parser": "C:\\Users\\Tako\\Desktop\\Projects\\Ohbot\\eslint-config-bytest\\node_modules\\vue-eslint-parser\\index.js",
+  "parserOptions": {
+    "ecmaVersion": 2020
+  },
+  "plugins": [
+    "vue"
+  ],
+  "rules": {
+    "arrow-spacing": [
+      "warn"
+    ],
+    "comma-dangle": [
+      "warn",
+      "always-multiline"
+    ],
+    "comma-spacing": [
+      "warn"
+    ],
+    "indent": [
+      "warn",
+      2
+    ],
+    "key-spacing": [
+      "warn",
+      {
+        "beforeColon": false
+      }
+    ],
+    "keyword-spacing": [
+      "warn"
+    ],
+    "no-console": [
+      "warn"
+    ],
+    "no-debugger": [
+      "warn"
+    ],
+    "no-empty-pattern": [
+      "warn"
+    ],
+    "no-multi-spaces": [
+      "warn"
+    ],
+    "no-unused-vars": [
+      "warn"
+    ],
+    "object-curly-spacing": [
+      "warn",
+      "always"
+    ],
+    "quote-props": [
+      "warn",
+      "as-needed"
+    ],
+    "quotes": [
+      "warn",
+      "single"
+    ],
+    "semi": [
+      "warn",
+      "never"
+    ],
+    "space-before-blocks": [
+      "warn",
+      "always"
+    ],
+    "space-before-function-paren": [
+      "warn",
+      "always"
+    ],
+    "space-in-parens": [
+      "warn"
+    ],
+    "space-infix-ops": [
+      "warn"
+    ]
+  },
+  "settings": {},
+  "ignorePatterns": []
+}
